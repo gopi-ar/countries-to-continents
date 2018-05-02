@@ -1,0 +1,8 @@
+{
+    "name": "gopi-ar/countries-to-continents",
+    "autoload": {
+        "psr-0" : {
+            "gopi-ar\\countriesToContinents" : "src"
+        }
+    }
+}
